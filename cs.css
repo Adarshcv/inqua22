@@ -33,7 +33,7 @@
   .box:after {
     content: " ";
     position: absolute;
-    inset: 8px;
+    inset: 5px;
     border-radius: inherit;
   }
 
