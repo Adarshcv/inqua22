@@ -1,0 +1,28 @@
+@font-face {
+    font-family: origami;
+    src: url(Origami.ttf);
+  }
+ .inq
+{
+        width: 512px;
+        opacity: .9;
+        height: auto;
+        display: flex;
+        margin-left: auto;
+        margin-right: auto;
+        width: 45%;
+        padding-bottom: 200;
+}
+.cs
+{
+        font-family: origami;
+        color: white;
+        font-size: 50px;
+        padding-top: 250;
+        position: inherit;
+        
+}
+body
+ {
+    
+ }
