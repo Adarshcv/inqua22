@@ -33,7 +33,7 @@
   .box:after {
     content: " ";
     position: absolute;
-    inset: 5px;
+    inset: 8px;
     border-radius: inherit;
   }
 
@@ -67,11 +67,15 @@
 .inqq
 {
         /*background-image: url("black.jpeg");*/
+        background-color: black;
+        color: #000;;
         opacity: .9;
         position: fixed;
         width: 290px;
         height: 290px;
-        border-radius: 50%;      
+        border-radius: 50%;
+      
+        
 }
 
 .cs
