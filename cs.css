@@ -26,7 +26,7 @@
   @media only screen and (max-width: 767px) {
     body {
       background-image: url("bg8.png");
-        overflow:hidden
+        overflow:hidden;
     }
   }
   .box {
