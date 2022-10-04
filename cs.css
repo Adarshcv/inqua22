@@ -29,6 +29,12 @@
         overflow:hidden;
     }
   }
+@media only screen and (max-width: 1200px) {
+    body {
+      background-image: url("bg10.png");
+        overflow:hidden;
+    }
+  }
   .box {
     position: relative;
     width: 300px;
