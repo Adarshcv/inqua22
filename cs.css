@@ -23,10 +23,11 @@
     /*background-color: black;*/
    
   }
-  @media only screen and(max-width: 600px) {
-    background-image: url("bg.jpg");
-}
-  
+  @media only screen and (max-width: 767px) {
+    body {
+      background-image: url("bg.png");
+    }
+  }
   .box {
     position: relative;
     width: 300px;
