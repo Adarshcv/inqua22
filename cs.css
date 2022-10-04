@@ -10,7 +10,7 @@
     height: 100vh;
     padding-bottom: 100px;
     padding-top: auto;
-    
+    overflow:hidden;
     background-image:url("bg2.png");
     background-size: cover;
     display: grid;
@@ -26,6 +26,7 @@
   @media only screen and (max-width: 767px) {
     body {
       background-image: url("bg.png");
+        overflow:hidden
     }
   }
   .box {
