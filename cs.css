@@ -4,7 +4,7 @@
     box-sizing: border-box;
   }
   
-  .bddy {
+  body {
     height: 100vh;
     padding-bottom: 100px;
     padding-top: auto;
@@ -120,6 +120,7 @@
         width: 400px;  
         z-index: 2;
 }
+
 html {
   background: black;
   overflow: hidden;
