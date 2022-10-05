@@ -8,10 +8,7 @@
     height: 100vh;
     padding-bottom: 100px;
     padding-top: auto;
-<<<<<<< Updated upstream
     overflow:hidden;
-=======
->>>>>>> Stashed changes
     background-image:url("bg2.png");
     background-size: cover;
     display: grid;
@@ -25,7 +22,6 @@
     /*background-color: black;*/
    
   }
-<<<<<<< Updated upstream
   @media only screen and (max-width: 767px) {
     body {
       background-image: url("bg8.png");
@@ -38,9 +34,6 @@
         overflow:hidden;
     }
   }
-=======
-  
->>>>>>> Stashed changes
   .box {
     position: relative;
     width: 300px;
