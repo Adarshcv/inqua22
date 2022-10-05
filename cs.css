@@ -4,18 +4,20 @@
     box-sizing: border-box;
   }
   
-  
-  
-  body {
+  .b1 {
     height: 100vh;
     padding-bottom: 100px;
     padding-top: auto;
+<<<<<<< Updated upstream
     overflow:hidden;
+=======
+>>>>>>> Stashed changes
     background-image:url("bg2.png");
     background-size: cover;
     display: grid;
     place-content: center;
-    display: flex;
+    /*background: black;*/
+     display: flex;
     min-height: 100vh;
     justify-content: center;
     align-content: center;
@@ -23,6 +25,7 @@
     /*background-color: black;*/
    
   }
+<<<<<<< Updated upstream
   @media only screen and (max-width: 767px) {
     body {
       background-image: url("bg8.png");
@@ -35,6 +38,9 @@
         overflow:hidden;
     }
   }
+=======
+  
+>>>>>>> Stashed changes
   .box {
     position: relative;
     width: 300px;
@@ -88,7 +94,7 @@
         /*background-image: url("black.jpeg");*/
         background-color: black;
         color: #000;;
-        opacity: .9;
+        opacity: .90;
         position: fixed;
         width: 290px;
         height: 290px;
@@ -120,6 +126,14 @@
         opacity: .95;
         width: 400px;  
         z-index: 2;
+}
+.social {
+align-items: center;
+}
+.icon
+{
+
+  width: 30px;
 }
 html {
   background: black;
