@@ -69,6 +69,10 @@
     font-family: origami;
     src: url(Origami.ttf);
   }
+@font-face {
+    font-family: ocra;
+    src: url(OCRAEXT.TTF);
+  }
  .inq
 {
         width: 512px;
@@ -95,7 +99,7 @@
 
 .cs2
 {
-        font-family: origami;
+        font-family: ocra;
         color: white;
         font-size: 18px;
         position:fixed;
