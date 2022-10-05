@@ -120,14 +120,6 @@
         width: 400px;  
         z-index: 2;
 }
-.social {
-align-items: center;
-}
-.icon
-{
-
-  width: 30px;
-}
 html {
   background: black;
   overflow: hidden;
