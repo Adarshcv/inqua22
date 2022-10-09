@@ -37,20 +37,6 @@
     /*background-color: black;*/
    
   }
-  @media only screen and (max-width: 767px) {
-    body {
-      background-image: url("bg8.png");
-        overflow:hidden;
-        background-size: cover;
-    }
-  }
-@media only screen and (max-width: 1200px) {
-    body {
-      background-image: url("bg10.png");
-        overflow:hidden;
-        background-size: cover;
-    }
-  }
   .box {
     position: fixed;
     width: 300px;
