@@ -75,6 +75,10 @@
     font-family: ocra;
     src: url(OCRAEXT.TTF);
   }
+  @font-face {
+    font-family: racer;
+    src: url(racer.ttf);
+  }
  .inq
 {
         width: 512px;
@@ -241,16 +245,18 @@ ul li a:hover {
   
 }
 .btt {
-  position: absolute;
+  position:relative;
   top: 35px;
   left: 50px;
-  padding: 10px 20px;
+  
+  padding: 15px 15px;
   display: inline-block;
   color: #ffffff;
-  /* letter-spacing: 2px; */
+  letter-spacing: -2px;
   text-transform: uppercase;
   text-decoration: none;
-  font-size: 1.8em;
+  font-family: racer;
+  font-size: 40px;
   overflow: hidden;
 }
 @keyframes rotate1 {
@@ -261,9 +267,13 @@ ul li a:hover {
 /*creating animation effect*/
 .btt:hover {
   
-  border-radius: 30px;
+  border-radius: 20px;
   box-shadow: 0 0 10px #8433DE;
   animation: rotate1 1.5s infinite;
+}
+.liico{
+  width: 15px;
+  height: 15px;
 }
 
 /* avdh */
