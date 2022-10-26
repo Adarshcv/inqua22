@@ -42,6 +42,7 @@
     width: 300px;
     height: 300px;
     border-radius: 50%;
+      bottom: 50px;
     background: linear-gradient(45deg, orange, yellow),
       linear-gradient(#26262600, #14141400);
     animation: rotate 1.5s linear infinite;
